@@ -1,0 +1,46 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MCP79410	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Begin	KEYWORD2
+ToggleSingleBit	KEYWORD2
+SetSingleBit	KEYWORD2
+ResetSingleBit	KEYWORD2
+WriteSingleReg	KEYWORD2
+WriteArray	KEYWORD2
+ClearReg	KEYWORD2
+ReadSingleReg	KEYWORD2
+ReadArray	KEYWORD2
+StartOscillatorBit	KEYWORD2
+Hour12or24TimeFormatBit	KEYWORD2
+AmPmBit	KEYWORD2
+VbatEnBit	KEYWORD2
+ResetPwFailBit	KEYWORD2
+GeneralPurposeOutputBit	KEYWORD2
+SquareWaveOutputBit	KEYWORD2
+Alarm1Bit	KEYWORD2
+Alarm0Bit	KEYWORD2
+ExternalOscillatorBit	KEYWORD2
+CoarseTrimModeBit	KEYWORD2
+SetOutputFrequencyBit	KEYWORD2
+AlarmHour12or24TimeFormatBit	KEYWORD2
+AlarmAmPmBit	KEYWORD2
+AlarmIntOutputPolarityBit	KEYWORD2
+AlarmMaskBit	KEYWORD2
+ResetAlarmIntFlagBit	KEYWORD2
+PowerHour12or24TimeFormatBit	KEYWORD2
+PowerAmPmBit	KEYWORD2
+WriteTimeKeeping	KEYWORD2
+WriteAlarmRegister	KEYWORD2
+WritePowerDownUpRegister	KEYWORD2
+ReadTimeKeeping	KEYWORD2
+ReadAlarmRegister	KEYWORD2
+ReadPowerDownUpRegister	KEYWORD2
+Set_EEPROM_WriteProtection	KEYWORD2
+WriteProtected_EEPROM	KEYWORD2
